@@ -12,7 +12,7 @@ done
 
 for i in {1..5 }
 do
-sudo adduser i
+sudo adduser Uporabnik$i
 done
 
 
