@@ -15,3 +15,6 @@ done
 3 sudo adduser uporabnik3
 4 sudo adduser uporabnik4
 5 sudo adduser uporabnik5
+
+
+
