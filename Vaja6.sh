@@ -9,17 +9,9 @@ for i in {1..5 }
 do
 mkdir folder$i
 done
-1
-2
-3
-4
-5
-for i in {1..5 }
-do
-sudo adduser Uporabnik$i
-done
-1
-2
-3
-4
-5
+
+1 sudo adduser uporabnik1
+2 sudo adduser uporabnik2
+3 sudo adduser uporabnik3
+4 sudo adduser uporabnik4
+5 sudo adduser uporabnik5
